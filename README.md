@@ -2,7 +2,7 @@
 A Non-Euclidean Portal system made on the Roblox Studio Platform
 ##  
 Hello People!  
-Today, I will be showcasing my own very own non-euclidean portal system, very reminiscent of the portals seen in Valve's <a href=google.com> Portal series. <a/>
+Today, I will be showcasing my own very own non-euclidean portal system, very reminiscent of the portals seen in Valve's <a href=https://www.thinkwithportals.com>Portal series. <a/>
 
 ## What it can do  
 This portal system allows players to look through and travel through a portal seamlessly.
