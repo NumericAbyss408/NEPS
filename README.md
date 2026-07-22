@@ -1,4 +1,4 @@
-# NEPS
+# NEPS: Non-Euclidean Portal System
 A Non-Euclidean Portal system made on the Roblox Studio Platform
 ##  
 Hello People!  
